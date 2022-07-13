@@ -5,7 +5,19 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+```
+approvedStudents = [student for student in studentGrades if student.Grade > 6]
+```
+
+```
+- [ ] Some details might me missing
+- [x] Some details might me missing
+```
 # Communicate using Markdown
+
+# nice!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
